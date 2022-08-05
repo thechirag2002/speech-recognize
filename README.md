@@ -44,5 +44,7 @@ Wav2Vec2 is a speech model that accepts a float array corresponding to the raw w
 
 ![model](https://github.com/thechirag2002/speech-recognize/blob/24b56ae3f124594563d00e54e96cb4b0b932c805/Wav2Vec2.png)
 
-```OUTPUT for given file```
+```
+OUTPUT for given file
+```
 ![output](https://github.com/thechirag2002/speech-recognize/blob/24b56ae3f124594563d00e54e96cb4b0b932c805/output.png)
