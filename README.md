@@ -39,4 +39,10 @@ from transformer import Wav2Vec2Tokenizer
 Wav2Vec2 is a speech model that accepts a float array corresponding to the raw waveform of the speech signal. Wav2Vec2 model was trained using connectionist temporal classification (CTC) so the model output has to be decoded using Wav2Vec2CTCTokenizer.
 
 
-> **The foundational model was pretrained and fine-tuned using 960 hours of 16kHz sampled speech audio from Librispeech. Make sure your speech input is captured at 16 KHz when utilising the model**
+
+- **The foundational model was pretrained and fine-tuned using 960 hours of 16kHz sampled speech audio from Librispeech. Make sure your speech input is captured at 16 KHz when utilising the model**
+
+![model](https://github.com/thechirag2002/speech-recognize/blob/24b56ae3f124594563d00e54e96cb4b0b932c805/Wav2Vec2.png)
+
+```OUTPUT for given file```
+![output](https://github.com/thechirag2002/speech-recognize/blob/24b56ae3f124594563d00e54e96cb4b0b932c805/output.png)
